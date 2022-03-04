@@ -37,7 +37,6 @@ The biggest challenge for me was to get my my collectionView to work by tapping 
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/mAP9HDx.gif" width=250><br>
 
 
 ### Notes
