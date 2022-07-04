@@ -2,7 +2,7 @@
 //  MovieGridCell.swift
 //  Flix
 //
-//  Created by Leia Ku on 3/3/22.
+//  Created by Ian Ku on 3/3/22.
 //
 
 import UIKit
